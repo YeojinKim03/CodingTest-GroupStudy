@@ -6,14 +6,14 @@
 
 - 유튜브 ‘이것이 코딩테스트다’
 
-    [(이코테 2021 강의 몰아보기) 1. 코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+    [이것이 코딩테스트다 유튜브 링크](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 
 - 토요일 오전 10시
 
 - 이코테 목차 순서에 맞게 매주 공부
     - 타 인강, 책, 등 추가공부 ok
 - 목표 문제 수 스스로 계획
-- 매주 세션마다 문제풀이/공부기록 인증
+- 매주 세션마다 노션에 문제풀이/공부기록 인증 : [노션 링크](https://opalescent-jeep-0b3.notion.site/Python-24a3e0abb8564af998b70e4176f84ba3)
 
 <br> 
 
