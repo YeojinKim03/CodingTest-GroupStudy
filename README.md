@@ -1,4 +1,4 @@
-# Coding Test Study - <i>Python</i>
+# Coding Test Group Study - <i>Python</i>
 
 # 1. 스터디 설명
 
@@ -36,5 +36,5 @@
 - 세션 진행자(여진)
 - 벌금 관리(근서)
 - 회의록(수빈)
-- 과제 제출 관리(수현)
+- 과제 제출 관리(승희)
 - 출결 관리(지민)
